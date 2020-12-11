@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# MIT License
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-12-11 15:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=cp65001\n"
+"Content-Transfer-Encoding: utf8\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: .\VoxelStitch.py:21
+msgid "; Image size:"
+msgstr ""
+
+#: .\VoxelStitch.py:21
+msgid "Image format:"
+msgstr ""
+
+#: .\VoxelStitch.py:22
+msgid "; Image mode:"
+msgstr ""
+
+#: .\VoxelStitch.py:26
+msgid "Image regions list:"
+msgstr ""
+
+#: .\VoxelStitch.py:34
+msgid "Min region: "
+msgstr ""
+
+#: .\VoxelStitch.py:35
+msgid "Max region: "
+msgstr ""
+
+#: .\VoxelStitch.py:39
+msgid "Min coordinate: "
+msgstr ""
+
+#: .\VoxelStitch.py:40
+msgid "Max coordinate: "
+msgstr ""
+
+#: .\VoxelStitch.py:44
+msgid "X offset: "
+msgstr ""
+
+#: .\VoxelStitch.py:45
+msgid "Y offset: "
+msgstr ""
+
+#: .\VoxelStitch.py:49
+msgid "Total region resolution: "
+msgstr ""
+
+#: .\VoxelStitch.py:53
+msgid "Image resolution: "
+msgstr ""
+
+#: .\VoxelStitch.py:71
+msgid "Complete!"
+msgstr ""
+
