@@ -23,7 +23,7 @@ for i in range(-200,200):
       regions.append((i,y))
     except IOError:
       pass
-print(_("Image regions list:"), "\n", regions)
+print(_("Image region list:"), "\n", regions)
 
 # 生成图像信息
 # 范围
