@@ -34,6 +34,8 @@ $ pip install Pillow
 ```
 $ python VoxelStitch.py
 ```
+回车。
+
 如果不出意外, 控制台将会开始打印信息。当输出 `完成!` 时, 一张 `compiledMap.png` 就会出现在 `VoxelStitch-Python3` 中。
 
 ### 致谢
