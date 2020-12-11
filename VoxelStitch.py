@@ -13,7 +13,7 @@ if defaultLocale[0] == 'zh_CN': # 设置语言
 regions = []
 for i in range(-200,200):
   y = i
-  for i in range(-200,200): # 最多200×200张图像
+  for i in range(-200,200): # 最多401×401张图像
     try:
       filename = "images/" + str(i) + "," + str(y) + ".png" # 获取图像名称
       im = Image.open(filename)
